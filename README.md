@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <a href="https://mitansh.xyz">🌐 Website</a> ·
+  <a href="https://www.gymshady.com">🌐 Website</a> ·
   <a href="https://www.linkedin.com/in/mitanshpanchal/">💼 LinkedIn</a> ·
   <a href="https://twitter.com/mitansh_panchal">🐦 X</a> ·
   <a href="https://instagram.com/gymshaddy">📸 Instagram</a>
