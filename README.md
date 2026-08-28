@@ -21,6 +21,7 @@
 
 ### Currently Working On
 
+- **[ReqStorm](https://github.com/looph0le/ReqStorm)** — API performance analyzer MCP server with benchmarking, load, stress, spike, soak, smoke & A/B testing
 - **[fin](https://github.com/looph0le/fin)** — an AI-first personal finance manager
 - **[autodev](https://github.com/looph0le/autodev)** — an autonomous SDLC orchestration engine
 - **[selfauth](https://github.com/looph0le/selfauth)** — a self-hosted authentication microservice
@@ -32,6 +33,7 @@ When I'm not shipping code, I'm tinkering with my [dwm](https://github.com/looph
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [ReqStorm](https://github.com/looph0le/ReqStorm) | API performance analyzer MCP server (benchmark/load/stress/spike/soak/smoke/A-B) | TypeScript |
 | [fin](https://github.com/looph0le/fin) | AI-first personal finance management | Python |
 | [autodev](https://github.com/looph0le/autodev) | Autonomous SDLC orchestration engine | TypeScript |
 | [selfauth](https://github.com/looph0le/selfauth) | Self-hosted authentication microservice | TypeScript |
